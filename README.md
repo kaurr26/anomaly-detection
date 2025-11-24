@@ -119,17 +119,12 @@ with open("regressor_model.pkl", 'wb') as file:
     <li>XGBoost: XGBoost is an optimized gradient boosting algorithm that is commonly used for classification and regression tasks. It is known for its speed and performance in handling large datasets.</li>
   </ul>
   
-  <h2 id="maintainer">About the Maintainer</h2>
+
   <p>
-    This project is currently maintained by <strong>SATHVIKA KALAPALA</strong>.
-    Sathvika is a Data Analyst with over 3 years of experience, specializing in transforming raw, messy data into automated pipelines and decision-ready dashboards.
-    She leverages expertise in SQL, Python (Pandas/NumPy), Tableau/Power BI, and cloud data stacks (Snowflake, AWS, Databricks) to deliver measurable impact.
-  </p>
+ </p>
   <p>
-    Connect with Sathvika:
+
     <ul>
-      <li><a href="https://www.linkedin.com/in/sathvika-kalapala-700a7712a">LinkedIn</a></li>
-      <li>Email: <a href="mailto:sathvika.kalapala1211@gmail.com">sathvika.kalapala1211@gmail.com</a></li>
     </ul>
   </p>
 </body>
